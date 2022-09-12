@@ -4,14 +4,13 @@
 
 
 
-## Demo
+## ScreenShot
 
 Insert gif or link to demo
 
 ![alt text](https://github.com/Deepanshu-Sharma-18/QrGenz/blob/master/Picsart_22-09-12_16-07-47-230.jpg)
 ## About QrGenerator
-
-It is an free to use app where you can just input data in textfield and click on generate to generate the QrCode.
+A QrGenerator app using compose and Hilt based on modern Android tech-stacks and MVVM architecture. Data is processed and converted into QRcode using zxing library.
 ## Made Using
 
 * Jetpack Compose
